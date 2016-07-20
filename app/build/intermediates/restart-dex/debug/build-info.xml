@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="13989249208083"
+    token="-2745078243593791723" >
+
+    <task
+        name="javac"
+        duration="2538" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="973" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="13989249208083" >
+        <artifact
+            location="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

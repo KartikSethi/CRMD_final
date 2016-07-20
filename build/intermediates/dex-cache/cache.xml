@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.2.0_5c95c77af342bb70045ee9bc44313d8f37f45742/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9b64d54f1d22d0802ff4e3ba49c4bc13fabc7cb3/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.0_8b86bba13a16323e39d377d5d50f73da0a542bb2/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.2.0_8a8aaca3f974197621dd5c178005928bc5ee9c70/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.0_a797623c22a866b38bf018a585e6a38215c42a0a/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.2.0_5ab1b647bda86bd8ccaf681d7ac1af95dad757ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.0_f85720845d1712efd76e55c65b6be7b373b0531d/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.2.0_92992646c5052adaabd4ed59011d3e4cf59cb720/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.0_a66db5f94e4c321f5192a21d6d4af9c94329be2a/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.2.0_abe280fb6c00090d8b1dc84f1e030e487acb97e7/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.2.0_7dd5ea527bb2780627fcd0644ddadea7f2d9ae07/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.2.0_f9b662b0c2c007f5fbc287220f4331af531de528/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.2.0_481a2290454a085dad73aef569c79d2eda0b29e4/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.2.0_216adb3a54a832564840b32e7d2ddf67ea2521ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.2.0_5e2f2467986e30b8ba1d98c957491f8970c74336/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="66d2b65995d53c4d33e75ba5ee5fb6fa5d0762be">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_97a529799e079b3e13b69de167921f51025defcb/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_4104b9c19bd3929c6bf863d2a23fb34ad5e28736/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.2.0_e59050bb53d61bda34ca800c58f8bfa47ea25aa2/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_51652366d8bc0e8e965187c38bd94334ecc9dc43/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.0_7f5fdde9eede61f8873327937b192579ca0079fe/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.0_7a06a25d7a6197a41c2abef859b78cf8cbeb1bdc/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.2.0_22f704c6bb34d2839310d5d8fd37a13c292266a6/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.2.0_0ecd182136d740c247998a12f656e4b2ca677c68/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.0_921c9c1d9c5edf60eccdeef143a5c969e7d414c3/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.2.0_0bb4342f7e2f988eec8b8ae7ea5a39e39a53ce3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.2.0_b2da17332e004dc551aebe0101e13e55a059bb93/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.2.0_80ec1461239d8b0b999a4acdf9bfbb331cac41b9/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_178bd6204f2bbd0233242d575ffe860826646d56/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b4e4dd44ef1d7cbc15e26986e70bc993b9df671d/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.0_96381cb370fe4fb563d0415f77ad1c0e4031ea16/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.2.0_38e4a2e208bb47eccda5aef426f0ffe15d5e1902/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.2.0_d135dbe75fdad2fdea30e940076ee1cd9af62f7f/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.2.0_ca4295f22ff926e42a679957dc5b311c8c0cf47f/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_8a34efc8b954ab49fb583569a0f734eab0a60a86/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.0_8953b5b989442b2aa8b91f59ca4b468ff1c7d0d4/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.2.0_cc38488f1c214ae465512607201aecd8d5ebbc76/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1a94c08e597acc7132e96a5796e77f2929df79e2/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.2.0_6b147a7d1467a98584ee75f601fa525af84045fc/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.2.0_513efe20de32adaed1fbda63d46c3886a5d43e54/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.2.0_88208a583a889510efc2f7b423344aac0f00b438/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.2.0_71c815799aeb9bba3e37594ab217977767171840/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.2.0_974241c1cb161b797824621c0dfe26e2a1aecfb6/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_d886958bdf37d5c5314697d1480a54d2d5c07fe4/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6d920474a28d2edb2cdf0c7ff19c99cb64d2f4b9/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.2.0_3b2bd1f7f0417a60e17470143677e7f2ced110b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.2.0_48046c18991d25a7f32964329a2dd0d93043ab9f/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.2.0_d981d4dc62a95537df7eedd799f918a6a333a0ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.2.0_c92b333b7723175a60d15bca0a9f58c7dd284eb3/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_6f8563f6833b2d239008ae034a1b9ba734bbe6a8/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.0_5cd05997dca22217e6ebcd17ef9fe3638a9bdce6/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.2.0_05e4652995faa037d0cd7e3199c09e426a3ce209/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.2.0_7c7aecd9552943a03451a4cd833d2be1098ba0c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac19725b0f2e64f816c33883a6efcb2a7d9c5b61">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d874f3d0eb7bc8e1a7a59a9ffc1586caa0d96c65/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.0_32f90904a75dfc9a0ca2438216350baad4e3c7e9/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_55fc0270cedab342d14e0484ad6540a437ec6e23/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.2.0_5652301c97f4837d0f7434097e8b934af9ae4b6c/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.2.0_b07e1cbf3fabcf1456dc640cd69ca2ab650dec44/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.0_e4b65eb4171becbb9eab82a1f5b513ef25500d06/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.2.0_3fae8efca56406e3ed45171188e295fa281aa03e/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.2.0_74338727bf5338bf1e1ac672a35954cb01a46e4a/classes.dex" />
+    </item>
+    <item
+        jar="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.2.0_c2b9d8d5b49bab2ea98f8b24b259c66275d637ec/classes.dex" />
+    </item>
+
+</items>

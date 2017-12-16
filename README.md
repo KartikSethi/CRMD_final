@@ -6,3 +6,5 @@ Steps to use the app:
 * Clone the repo.
 * Generate an APK file using an IDE like Android Studio.
 * Use the APK by transferring it into your device.
+
+Refer to [report.pdf](./report.pdf) for more information.

@@ -1,6 +1,6 @@
 # Location Based Monitoring System
 
-This is an Android application called "Location Based Monitoring System". Developed for Delhi Metro Rail Corporation.
+This is an Android application called "Location Based Monitoring System", developed for Delhi Metro Rail Corporation.
 
 Steps to use the app:
 * Clone the repo.
